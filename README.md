@@ -1,2 +1,2 @@
-# DailySalesLogSystem
+# ASimpleComputerizedDailySalesLogSystemForSchoolCanteen
 P3 Final Project
